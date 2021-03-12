@@ -10,7 +10,7 @@
     {
       "email": "mauricio@google.com",
       "password": "$2a$10$SCeCDXxD40jojmihyOfwJujk2MhC2a7HIeGFI8mEqOrlSbdYgCUKO",
-      "name": "Maricio",
+      "name": "Mauricio",
       "role": "editor",
       "id": 2
     }
@@ -66,13 +66,6 @@
       "price": "R$ 16,90",
       "description": "Erdinger",
       "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175042-1200-auto?width=1200&height=auto&aspect=true"
-    },
-    {
-      "title": "Pack Cerveja Michelob Ultra Light Lager 355ml (6 unidades)",
-      "price": "R$ 29,94",
-      "description": "Michelob Ultra",
-      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/179041-1200-auto?width=1200&height=auto&aspect=true",
-      "id": 7
     }
   ]
 }
